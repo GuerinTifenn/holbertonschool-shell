@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d | wc -lRa
+ls -l . | grep -c ^d | wc -lRa
