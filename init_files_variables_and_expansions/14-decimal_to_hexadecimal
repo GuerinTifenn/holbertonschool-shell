@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf "%10f\n" $DECIMAL
+prinf "%xf\n" $DECIMAL
